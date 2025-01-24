@@ -5,11 +5,11 @@ Dies ist der Code für eine Verstellung einer MagLoop-Antenne für das Amateurfu
 
 Mit einem Arduino Nano wird ein Schrittmotor angesteuert um einen Plattenkondensator einzustellen.
 
-MagLoop:
+# MagLoop:
 ![alt text](pics/MagLoop.png)
 
-Controller:
+# Controller:
 ![alt text](pics/Controller.png)
 
-Schrittmotor:
-![alt text](pics/Schrittmotor.png) -->
+# Schrittmotor:
+![alt text](pics/Schrittmotor.png)
